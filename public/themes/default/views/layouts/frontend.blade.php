@@ -34,7 +34,6 @@
     <link rel="stylesheet" href="{{ theme('frontend/js/jquery/plugins/autocomplete/jquery.autocomplete.css') }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ theme('frontend/css/product_list.css') }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ theme('frontend/css/modules/blocksearch/blocksearch.css') }}" type="text/css" media="all" />
-    <link rel="stylesheet" href="{{ theme('frontend/css/paneltool.css') }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ theme('frontend/css/modules/leosliderlayer/css/typo.css') }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ theme('frontend/css/modules/blockuserinfo/blockuserinfo.css') }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ theme('frontend/css/modules/blockwishlist/blockwishlist.css') }}" type="text/css" media="all" />
@@ -43,7 +42,7 @@
     <link rel="stylesheet" href="{{ theme('frontend/css/modules/blockleoblogs/blockleoblogs.css') }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ theme('frontend/css/modules/leobootstrapmenu/megamenu.css') }}" type="text/css" media="all" />
     <link rel="stylesheet" type="text/css" href="{{ theme('frontend/css/responsive.css') }}"/>
-    <link rel="stylesheet" type="text/css" href="{{ theme('frontend/css/font-awesome.min.css') }}"/>
+    <link rel="stylesheet" type="text/css" href="{{ theme('frontend/font-awesome/css/font-awesome.min.css') }}"/>
     <link rel="stylesheet" href="{{ theme('frontend/css/customize/test33.css') }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ theme('frontend/css/local/custom.css') }}" type="text/css" media="all" />
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
