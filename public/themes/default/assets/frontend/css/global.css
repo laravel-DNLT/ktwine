@@ -1348,6 +1348,7 @@ pre code {
 
   .col-md-12 {
     width: 100%;
+    padding-top: 10px;
   }
 
   .col-md-pull-0 {

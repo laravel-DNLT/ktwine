@@ -179,6 +179,12 @@
             });
         });
     </script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.tab_product .page-product-heading li:first, .tab_product .tab-content section:first').addClass('active');
+        });
+    </script>
+
 </div>
 </body>
 </html>

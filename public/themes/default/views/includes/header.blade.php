@@ -38,7 +38,7 @@
                                     <div id="leo-top-menu" class="collapse navbar-collapse navbar-ex1-collapse">
                                         <ul class="nav navbar-nav megamenu">
                                             <li class="" >
-                                                <a href="index.html" target="_self" class="has-category">
+                                                <a href="{{ url('/') }}" target="_self" class="has-category">
                                                     <span class="menu-title">Home</span>
                                                 </a>
                                             </li>
@@ -67,55 +67,55 @@
                                                                                             Kosher
                                                                                         </a>
                                                                                     </li>
-                                                                                    <li class="clearfix">
-                                                                                        <a href="15-organic.html" title="Organic" class="img">
-                                                                                            Organic
-                                                                                        </a>
-                                                                                    </li>
+                                                                                    {{--<li class="clearfix">--}}
+                                                                                        {{--<a href="15-organic.html" title="Organic" class="img">--}}
+                                                                                            {{--Organic--}}
+                                                                                        {{--</a>--}}
+                                                                                    {{--</li>--}}
                                                                                     <li class="clearfix">
                                                                                         <a href="{{ url('rose') }}" title="Rose" class="img">
                                                                                             Rose
                                                                                         </a>
                                                                                     </li>
-                                                                                    <li class="clearfix">
-                                                                                        <a href="17-sparkling.html" title="Sparkling" class="img">
-                                                                                            Sparkling
-                                                                                        </a>
-                                                                                    </li>
-                                                                                    <li class="clearfix">
-                                                                                        <a href="18-blush.html" title="Blush" class="img">
-                                                                                            Blush
-                                                                                        </a>
-                                                                                    </li>
+                                                                                    {{--<li class="clearfix">--}}
+                                                                                        {{--<a href="17-sparkling.html" title="Sparkling" class="img">--}}
+                                                                                            {{--Sparkling--}}
+                                                                                        {{--</a>--}}
+                                                                                    {{--</li>--}}
+                                                                                    {{--<li class="clearfix">--}}
+                                                                                        {{--<a href="18-blush.html" title="Blush" class="img">--}}
+                                                                                            {{--Blush--}}
+                                                                                        {{--</a>--}}
+                                                                                    {{--</li>--}}
                                                                                 </ul>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <div class="mega-col col-sm-8" >
-                                                                <div class="mega-col-inner list_poduct_menu">
-                                                                    <div class="leo-widget">
-                                                                        <div class="widget-video">
-                                                                            <div class="menu-title">
-                                                                                Video code
-                                                                            </div>
-                                                                            <div class="widget-inner">
-                                                                                <!-- <iframe width="450" height="210" allowfullscreen="" style="border:none" src="https://www.youtube.com/embed/OBOCBUZ7aLQ"></iframe> -->
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
+                                                            {{--<div class="mega-col col-sm-8" >--}}
+                                                                {{--<div class="mega-col-inner list_poduct_menu">--}}
+                                                                    {{--<div class="leo-widget">--}}
+                                                                        {{--<div class="widget-video">--}}
+                                                                            {{--<div class="menu-title">--}}
+                                                                                {{--Video code--}}
+                                                                            {{--</div>--}}
+                                                                            {{--<div class="widget-inner">--}}
+                                                                                {{--<!-- <iframe width="450" height="210" allowfullscreen="" style="border:none" src="https://www.youtube.com/embed/OBOCBUZ7aLQ"></iframe> -->--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</div>--}}
+                                                                {{--</div>--}}
+                                                            {{--</div>--}}
                                                             <div class="mega-col col-sm-12" >
                                                                 <div class="mega-col-inner ">
                                                                     <div class="leo-widget">
                                                                         <div class="widget-html">
-                                                                            <div class="widget-inner">
-                                                                                <p>
-                                                                                    <img class="img-responsive" src="{{theme('frontend/img/modules/leobootstrapmenu/3.jpg')}}" alt="" />
-                                                                                </p>
-                                                                            </div>
+                                                                            {{--<div class="widget-inner">--}}
+                                                                                {{--<p>--}}
+                                                                                    {{--<img class="img-responsive" src="{{theme('frontend/img/modules/leobootstrapmenu/3.jpg')}}" alt="" />--}}
+                                                                                {{--</p>--}}
+                                                                            {{--</div>--}}
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -406,6 +406,69 @@
                                                     <span class="menu-title">About Us</span>
                                                 </a>
                                             </li>
+                                            <li class=" parent dropdown aligned-fullwidth " >
+                                                <a href="#" class="dropdown-toggle has-category" data-toggle="dropdown" target="_self">
+                                                    <span class="menu-title">Form</span>
+                                                    <b class="caret"></b>
+                                                </a>
+                                                <div class="dropdown-sub dropdown-menu"  style="width:680px" >
+                                                    <div class="dropdown-menu-inner">
+                                                        <div class="row">
+                                                            <div class="mega-col col-sm-4" >
+                                                                <div class="mega-col-inner ">
+                                                                    <div class="leo-widget">
+                                                                        <div class="widget-subcategories">
+                                                                            <div class="widget-inner">
+                                                                                <ul>
+                                                                                    <li class="clearfix">
+                                                                                        <a href="{{ url('contact') }}" title="Contact" class="img">
+                                                                                            Contact Us
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class="clearfix">
+                                                                                        <a href="{{ url('sale-contact') }}" title="Sale Lead Contact" class="img">
+                                                                                            Sale Lead Contact
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class="clearfix">
+                                                                                        <a href="{{ url('change-order') }}" title=" Change Order" class="img">
+                                                                                            Change Order
+                                                                                         </a>
+                                                                                    </li>
+                                                                                    <li class="clearfix">
+                                                                                        <a href="{{ url('change-request') }}" title="Change Request" class="img">
+                                                                                            Change Request
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class="clearfix">
+                                                                                        <a href="{{ url('purchase-order') }}" title="Purchase Order" class="img">
+                                                                                            Purchase Order
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class="clearfix">
+                                                                                        <a href="{{ url('request-quote') }}" title="Request for Quote" class="img">
+                                                                                            Request for Quote
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class="clearfix">
+                                                                                        <a href="{{ url('supply-form') }}" title=" Sipply Order Form" class="img">
+                                                                                            Sipply Order Form
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class="clearfix">
+                                                                                        <a href="{{ url('vendor') }}" title=" Vendor Registration" class="img">
+                                                                                            Vendor Registration
+                                                                                        </a>
+                                                                                    </li>
+                                                                                </ul>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                         </ul>
                                     </div>
                                 </div>

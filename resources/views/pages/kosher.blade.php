@@ -6,7 +6,7 @@
 
 			<!-- Breadcrumb -->
 			<div class="breadcrumb clearfix">
-				<a class="home" href="http://demo4leotheme.com/prestashop/leo_wine_store/" title="Return to Home">Home</a>
+				<a class="home" href="{{ url('/') }}" title="Return to Home">Home</a>
 				<span class="navigation-pipe" >&gt;</span>
 				<span class="navigation_page">Kosher</span>
 			</div>
@@ -35,7 +35,7 @@
 							<ul class="list-block bullet tree dhtml">
 
 								<li >
-									<a href="champagne.html" title="Champagne">
+									<a href="{{ url('champagne') }}" title="Champagne">
 										Champagne
 										<span id="leo-cat-13" style="display:none" class="leo-qty badge"></span>
 									</a>
@@ -43,94 +43,94 @@
 
 
 								<li >
-									<a href="kosher.html" class="selected" title="Kosher">
+									<a href="{{ url('kosher') }}" class="selected" title="Kosher">
 										Kosher
 										<span id="leo-cat-14" style="display:none" class="leo-qty badge"></span>
 									</a>
 								</li>
 
 
-								<li >
-									<a href="15-organic.html" title="Organic">
-										Organic
-										<span id="leo-cat-15" style="display:none" class="leo-qty badge"></span>
-									</a>
-								</li>
+								{{--<li >--}}
+									{{--<a href="15-organic.html" title="Organic">--}}
+										{{--Organic--}}
+										{{--<span id="leo-cat-15" style="display:none" class="leo-qty badge"></span>--}}
+									{{--</a>--}}
+								{{--</li>--}}
 
 
 								<li >
-									<a href="rose.html" title="Rose">
+									<a href="{{ url('rose') }}" title="Rose">
 										Rose
 										<span id="leo-cat-16" style="display:none" class="leo-qty badge"></span>
 									</a>
-									<ul>
+									{{--<ul>--}}
 
-										<li >
-											<a href="22-boxwine-.html" title="Boxwine ">
-												Boxwine
-												<span id="leo-cat-22" style="display:none" class="leo-qty badge"></span>
-											</a>
-										</li>
-
-
-										<li >
-											<a href="23-broadbent.html" title="Broadbent">
-												Broadbent
-												<span id="leo-cat-23" style="display:none" class="leo-qty badge"></span>
-											</a>
-										</li>
+										{{--<li >--}}
+											{{--<a href="22-boxwine-.html" title="Boxwine ">--}}
+												{{--Boxwine--}}
+												{{--<span id="leo-cat-22" style="display:none" class="leo-qty badge"></span>--}}
+											{{--</a>--}}
+										{{--</li>--}}
 
 
-										<li >
-											<a href="24-finca-las-nubes.html" title="Finca Las Nubes">
-												Finca Las Nubes
-												<span id="leo-cat-24" style="display:none" class="leo-qty badge"></span>
-											</a>
-										</li>
+										{{--<li >--}}
+											{{--<a href="23-broadbent.html" title="Broadbent">--}}
+												{{--Broadbent--}}
+												{{--<span id="leo-cat-23" style="display:none" class="leo-qty badge"></span>--}}
+											{{--</a>--}}
+										{{--</li>--}}
 
 
-										<li class="last">
-											<a href="25-ichanka.html" title="Ichanka">
-												Ichanka
-												<span id="leo-cat-25" style="display:none" class="leo-qty badge"></span>
-											</a>
-										</li>
+										{{--<li >--}}
+											{{--<a href="24-finca-las-nubes.html" title="Finca Las Nubes">--}}
+												{{--Finca Las Nubes--}}
+												{{--<span id="leo-cat-24" style="display:none" class="leo-qty badge"></span>--}}
+											{{--</a>--}}
+										{{--</li>--}}
 
-									</ul>
+
+										{{--<li class="last">--}}
+											{{--<a href="25-ichanka.html" title="Ichanka">--}}
+												{{--Ichanka--}}
+												{{--<span id="leo-cat-25" style="display:none" class="leo-qty badge"></span>--}}
+											{{--</a>--}}
+										{{--</li>--}}
+
+									{{--</ul>--}}
 								</li>
 
 
-								<li >
-									<a href="17-sparkling.html" title="Sparkling">
-										Sparkling
-										<span id="leo-cat-17" style="display:none" class="leo-qty badge"></span>
-									</a>
-								</li>
+								{{--<li >--}}
+									{{--<a href="17-sparkling.html" title="Sparkling">--}}
+										{{--Sparkling--}}
+										{{--<span id="leo-cat-17" style="display:none" class="leo-qty badge"></span>--}}
+									{{--</a>--}}
+								{{--</li>--}}
 
 
-								<li class="last">
-									<a href="18-blush.html" title="Blush">
-										Blush
-										<span id="leo-cat-18" style="display:none" class="leo-qty badge"></span>
-									</a>
-									<ul>
+								{{--<li class="last">--}}
+									{{--<a href="18-blush.html" title="Blush">--}}
+										{{--Blush--}}
+										{{--<span id="leo-cat-18" style="display:none" class="leo-qty badge"></span>--}}
+									{{--</a>--}}
+									{{--<ul>--}}
 
-										<li >
-											<a href="19-anoro.html" title="Anoro">
-												Anoro
-												<span id="leo-cat-19" style="display:none" class="leo-qty badge"></span>
-											</a>
-										</li>
+										{{--<li >--}}
+											{{--<a href="19-anoro.html" title="Anoro">--}}
+												{{--Anoro--}}
+												{{--<span id="leo-cat-19" style="display:none" class="leo-qty badge"></span>--}}
+											{{--</a>--}}
+										{{--</li>--}}
 
 
-										<li class="last">
-											<a href="21-altivo.html" title="Altivo">
-												Altivo
-												<span id="leo-cat-21" style="display:none" class="leo-qty badge"></span>
-											</a>
-										</li>
+										{{--<li class="last">--}}
+											{{--<a href="21-altivo.html" title="Altivo">--}}
+												{{--Altivo--}}
+												{{--<span id="leo-cat-21" style="display:none" class="leo-qty badge"></span>--}}
+											{{--</a>--}}
+										{{--</li>--}}
 
-									</ul>
+									{{--</ul>--}}
 								</li>
 
 							</ul>

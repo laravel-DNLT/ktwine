@@ -6,7 +6,7 @@
 		<div class="container">
 			<!-- Breadcrumb -->
 			<div class="breadcrumb clearfix">
-				<a class="home" href="http://demo4leotheme.com/prestashop/leo_wine_store/" title="Return to Home">Home</a>
+				<a class="home" href="{{ url('/') }}" title="Return to Home">Home</a>
 				<span class="navigation-pipe" >&gt;</span>
 				<span class="navigation_page">About us</span>
 			</div>

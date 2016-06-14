@@ -268,11 +268,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="8"></div>
-                                                                                <a class="product_img_link"	href="home/8-donec-tellus-purus.html" title="Donec tellus purus" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-1') }}" title="Donec tellus purus" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus27.jp')}}g" alt="Donec tellus purus" title="Donec tellus purus" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="8"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/8-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/8-donec-tellus-purus.html" title="Quick view" ></a>
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-1') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/8-donec-tellus-purus.html" title="Quick view" ></a>
                                                                                 <span class="new-box">
                                                                                     <span class="new-label product-label">New</span>
                                                                                 </span>
@@ -284,7 +284,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/8-donec-tellus-purus.html" title="Donec tellus purus" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-1') }}" title="Donec tellus purus" itemprop="url" >
                                                                                         Donec tellus purus
                                                                                     </a>
                                                                                 </h5>
@@ -334,7 +334,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/8-donec-tellus-purus.html" data-id-product="8" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-1') }}" data-id-product="8" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -362,11 +362,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="9"></div>
-                                                                                <a class="product_img_link"	href="home/9-donec-tellus-purus.html" title="Fusce a congue" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-2') }}" title="Fusce a congue" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus31.jpg')}}" alt="Donec tellus purus" title="Donec tellus purus" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="9"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/9-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/9-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-2') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/9-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																				<span class="new-box">
 																					<span class="new-label product-label">New</span>
@@ -381,7 +381,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/9-donec-tellus-purus.html" title="Fusce a congue" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-2') }}" title="Fusce a congue" itemprop="url" >
                                                                                         Fusce a congue
                                                                                     </a>
                                                                                 </h5>
@@ -435,7 +435,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/9-donec-tellus-purus.html" data-id-product="9" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-2') }}" data-id-product="9" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -463,11 +463,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="10"></div>
-                                                                                <a class="product_img_link"	href="home/10-donec-tellus-purus.html" title="Donec tellus purus" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-3') }}" title="Donec tellus purus" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus33.jpg')}}" alt="Donec tellus purus" title="Donec tellus purus" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="10"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/10-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/10-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-3') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/10-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																						<span class="new-box">
 																							<span class="new-label product-label">New</span>
@@ -479,7 +479,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/10-donec-tellus-purus.html" title="Donec tellus purus" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-3') }}" title="Donec tellus purus" itemprop="url" >
                                                                                         Donec tellus purus
                                                                                     </a>
                                                                                 </h5>
@@ -528,7 +528,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/10-donec-tellus-purus.html" data-id-product="10" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-3') }}" data-id-product="10" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -556,11 +556,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="11"></div>
-                                                                                <a class="product_img_link"	href="home/11-donec-tellus-purus.html" title="Donec tellus purus" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-4') }}" title="Donec tellus purus" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus34.jpg')}}" alt="Donec tellus purus" title="Donec tellus purus" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="11"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/11-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/11-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-4') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/11-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																								<span class="new-box">
 																									<span class="new-label product-label">New</span>
@@ -572,7 +572,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/11-donec-tellus-purus.html" title="Donec tellus purus" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-4') }}" title="Donec tellus purus" itemprop="url" >
                                                                                         Donec tellus purus
                                                                                     </a>
                                                                                 </h5>
@@ -621,7 +621,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/11-donec-tellus-purus.html" data-id-product="11" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-4') }}" data-id-product="11" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -655,11 +655,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="12"></div>
-                                                                                <a class="product_img_link"	href="home/12-donec-tellus-purus.html" title="Morbi ullamcorper" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-5') }}" title="Morbi ullamcorper" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus35.jpg')}}" alt="Donec tellus purus" title="Donec tellus purus" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="12"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/12-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/12-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-5') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/12-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																										<span class="new-box">
 																											<span class="new-label product-label">New</span>
@@ -671,7 +671,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/12-donec-tellus-purus.html" title="Morbi ullamcorper" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-5') }}" title="Morbi ullamcorper" itemprop="url" >
                                                                                         Morbi ullamcorper
                                                                                     </a>
                                                                                 </h5>
@@ -720,7 +720,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/12-donec-tellus-purus.html" data-id-product="12" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-5') }}" data-id-product="12" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -748,11 +748,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="13"></div>
-                                                                                <a class="product_img_link"	href="home/13-donec-tellus-purus.html" title="Lorem ipsum dolor" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-6') }}" title="Lorem ipsum dolor" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus36.jpg')}}" alt="Morbi ullamcorper" title="Morbi ullamcorper" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="13"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/13-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/13-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-6') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/13-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																												<span class="new-box">
 																													<span class="new-label product-label">New</span>
@@ -764,7 +764,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/13-donec-tellus-purus.html" title="Lorem ipsum dolor" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-6') }}" title="Lorem ipsum dolor" itemprop="url" >
                                                                                         Lorem ipsum dolor
                                                                                     </a>
                                                                                 </h5>
@@ -813,7 +813,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/13-donec-tellus-purus.html" data-id-product="13" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-6') }}" data-id-product="13" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -841,11 +841,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="14"></div>
-                                                                                <a class="product_img_link"	href="home/14-donec-tellus-purus.html" title="Fusce vestibulum" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-7') }}" title="Fusce vestibulum" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus37.jpg')}}" alt="Lorem ipsum dolor" title="Lorem ipsum dolor" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="14"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/14-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/14-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-7') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/14-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																														<span class="new-box">
 																															<span class="new-label product-label">New</span>
@@ -860,7 +860,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/14-donec-tellus-purus.html" title="Fusce vestibulum" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-7') }}" title="Fusce vestibulum" itemprop="url" >
                                                                                         Fusce vestibulum
                                                                                     </a>
                                                                                 </h5>
@@ -909,7 +909,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/14-donec-tellus-purus.html" data-id-product="14" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-7') }}" data-id-product="14" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -937,11 +937,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="15"></div>
-                                                                                <a class="product_img_link"	href="home/15-donec-tellus-purus.html" title="Fusce vestibulum" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-8') }}" title="Fusce vestibulum" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus38.jpg')}}" alt="Fusce vestibulum" title="Fusce vestibulum" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="15"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/15-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/15-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-8') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/15-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																																<span class="new-box">
 																																	<span class="new-label product-label">New</span>
@@ -953,7 +953,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/15-donec-tellus-purus.html" title="Fusce vestibulum" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-8') }}" title="Fusce vestibulum" itemprop="url" >
                                                                                         Fusce vestibulum
                                                                                     </a>
                                                                                 </h5>
@@ -1008,7 +1008,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/15-donec-tellus-purus.html" data-id-product="15" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-8') }}" data-id-product="15" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -1067,7 +1067,7 @@
                                                                     </div>
 
                                                                     <div class="blog-meta text-left">
-                                                                        <h5><a href="blog/urna-pretium-elit-mauris-cursus-curabitur-at-elit-vestibulum-b6.html" title="Urna pretium elit mauris cursus Curabitur at elit Vestibulum">Urna pretium...</a></h5>
+                                                                        <h5><a href="{{ url('blog/blog-1') }}" title="Urna pretium elit mauris cursus Curabitur at elit Vestibulum">Urna pretium...</a></h5>
 
 
 
@@ -1079,7 +1079,7 @@
 
                                                                         </div>
                                                                         <p>
-                                                                            <a href="blog/urna-pretium-elit-mauris-cursus-curabitur-at-elit-vestibulum-b6.html" title="Urna pretium elit mauris cursus Curabitur at elit Vestibulum" class="view">Read more</a>
+                                                                            <a href="{{ url('blog/blog-1') }}" title="Urna pretium elit mauris cursus Curabitur at elit Vestibulum" class="view">Read more</a>
                                                                         </p>
                                                                     </div>
 
@@ -1097,7 +1097,7 @@
                                                                     </div>
 
                                                                     <div class="blog-meta text-left">
-                                                                        <h5><a href="blog/morbi-condimentum-molestie-nam-enim-odio-sodales-b7.html" title="Morbi condimentum molestie Nam enim odio sodales">Morbi...</a></h5>
+                                                                        <h5><a href="{{ url('blog/blog-2') }}" title="Morbi condimentum molestie Nam enim odio sodales">Morbi...</a></h5>
 
 
 
@@ -1109,7 +1109,7 @@
 
                                                                         </div>
                                                                         <p>
-                                                                            <a href="blog/morbi-condimentum-molestie-nam-enim-odio-sodales-b7.html" title="Morbi condimentum molestie Nam enim odio sodales" class="view">Read more</a>
+                                                                            <a href="{{ url('blog/blog-2') }}" title="Morbi condimentum molestie Nam enim odio sodales" class="view">Read more</a>
                                                                         </p>
                                                                     </div>
 
@@ -1131,7 +1131,7 @@
                                                                     </div>
 
                                                                     <div class="blog-meta text-left">
-                                                                        <h5><a href="blog/turpis-at-eleifend-leo-mi-elit-aenean-porta-ac-sed-faucibus-b8.html" title="Turpis at eleifend leo mi elit Aenean porta ac sed faucibus">Turpis at...</a></h5>
+                                                                        <h5><a href="{{ url('blog/blog-3') }}" title="Turpis at eleifend leo mi elit Aenean porta ac sed faucibus">Turpis at...</a></h5>
 
 
 
@@ -1143,7 +1143,7 @@
 
                                                                         </div>
                                                                         <p>
-                                                                            <a href="blog/turpis-at-eleifend-leo-mi-elit-aenean-porta-ac-sed-faucibus-b8.html" title="Turpis at eleifend leo mi elit Aenean porta ac sed faucibus" class="view">Read more</a>
+                                                                            <a href="{{ url('blog/blog-3') }}" title="Turpis at eleifend leo mi elit Aenean porta ac sed faucibus" class="view">Read more</a>
                                                                         </p>
                                                                     </div>
 
@@ -1161,7 +1161,7 @@
                                                                     </div>
 
                                                                     <div class="blog-meta text-left">
-                                                                        <h5><a href="blog/nullam-ullamcorper-nisl-quis-ornare-molestie-b9.html" title="Nullam ullamcorper nisl quis ornare molestie">Nullam...</a></h5>
+                                                                        <h5><a href="{{ url('blog/blog-4') }}" title="Nullam ullamcorper nisl quis ornare molestie">Nullam...</a></h5>
 
 
 
@@ -1173,7 +1173,7 @@
 
                                                                         </div>
                                                                         <p>
-                                                                            <a href="blog/nullam-ullamcorper-nisl-quis-ornare-molestie-b9.html" title="Nullam ullamcorper nisl quis ornare molestie" class="view">Read more</a>
+                                                                            <a href="{{ url('blog/blog-4') }}" title="Nullam ullamcorper nisl quis ornare molestie" class="view">Read more</a>
                                                                         </p>
                                                                     </div>
 
@@ -1195,7 +1195,7 @@
                                                                     </div>
 
                                                                     <div class="blog-meta text-left">
-                                                                        <h5><a href="blog/urna-pretium-elit-mauris-cursus-curabitur-at-elit-vestibulum-b5.html" title="Urna pretium elit mauris cursus Curabitur at elit Vestibulum">Urna pretium...</a></h5>
+                                                                        <h5><a href="{{ url('blog/blog-6') }}" title="Urna pretium elit mauris cursus Curabitur at elit Vestibulum">Urna pretium...</a></h5>
 
 
 
@@ -1207,7 +1207,7 @@
 
                                                                         </div>
                                                                         <p>
-                                                                            <a href="blog/urna-pretium-elit-mauris-cursus-curabitur-at-elit-vestibulum-b5.html" title="Urna pretium elit mauris cursus Curabitur at elit Vestibulum" class="view">Read more</a>
+                                                                            <a href="{{ url('blog/blog-6') }}" title="Urna pretium elit mauris cursus Curabitur at elit Vestibulum" class="view">Read more</a>
                                                                         </p>
                                                                     </div>
 
@@ -1225,7 +1225,7 @@
                                                                     </div>
 
                                                                     <div class="blog-meta text-left">
-                                                                        <h5><a href="blog/ipsum-cursus-vestibulum-at-interdum-vivamus-b4.html" title="Ipsum cursus vestibulum at interdum Vivamus">Ipsum cursus...</a></h5>
+                                                                        <h5><a href="{{ url('blog/blog-5') }}" title="Ipsum cursus vestibulum at interdum Vivamus">Ipsum cursus...</a></h5>
 
 
 
@@ -1237,7 +1237,7 @@
 
                                                                         </div>
                                                                         <p>
-                                                                            <a href="blog/ipsum-cursus-vestibulum-at-interdum-vivamus-b4.html" title="Ipsum cursus vestibulum at interdum Vivamus" class="view">Read more</a>
+                                                                            <a href="{{ url('blog/blog-5') }}" title="Ipsum cursus vestibulum at interdum Vivamus" class="view">Read more</a>
                                                                         </p>
                                                                     </div>
 
@@ -1281,11 +1281,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="12"></div>
-                                                                                <a class="product_img_link"	href="home/12-donec-tellus-purus.html" title="Morbi ullamcorper" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-5') }}" title="Morbi ullamcorper" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus35.jpg')}}" alt="Donec tellus purus" title="Donec tellus purus" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="12"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/12-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/12-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-5') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/12-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																																		<span class="new-box">
 																																			<span class="new-label product-label">New</span>
@@ -1297,7 +1297,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/12-donec-tellus-purus.html" title="Morbi ullamcorper" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-5') }}" title="Morbi ullamcorper" itemprop="url" >
                                                                                         Morbi ullamcorper
                                                                                     </a>
                                                                                 </h5>
@@ -1346,7 +1346,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/12-donec-tellus-purus.html" data-id-product="12" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-5') }}" data-id-product="12" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -1374,11 +1374,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="13"></div>
-                                                                                <a class="product_img_link"	href="home/13-donec-tellus-purus.html" title="Lorem ipsum dolor" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-6') }}" title="Lorem ipsum dolor" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus36.jpg')}}" alt="Morbi ullamcorper" title="Morbi ullamcorper" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="13"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/13-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/13-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-6') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/13-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																																				<span class="new-box">
 																																					<span class="new-label product-label">New</span>
@@ -1390,7 +1390,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/13-donec-tellus-purus.html" title="Lorem ipsum dolor" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-6') }}" title="Lorem ipsum dolor" itemprop="url" >
                                                                                         Lorem ipsum dolor
                                                                                     </a>
                                                                                 </h5>
@@ -1439,7 +1439,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/13-donec-tellus-purus.html" data-id-product="13" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-6') }}" data-id-product="13" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -1467,11 +1467,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="14"></div>
-                                                                                <a class="product_img_link"	href="home/14-donec-tellus-purus.html" title="Fusce vestibulum" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-7') }}" title="Fusce vestibulum" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus37.jpg')}}" alt="Lorem ipsum dolor" title="Lorem ipsum dolor" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="14"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/14-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/14-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-7') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/14-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																																						<span class="new-box">
 																																							<span class="new-label product-label">New</span>
@@ -1486,7 +1486,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/14-donec-tellus-purus.html" title="Fusce vestibulum" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-7') }}" title="Fusce vestibulum" itemprop="url" >
                                                                                         Fusce vestibulum
                                                                                     </a>
                                                                                 </h5>
@@ -1535,7 +1535,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/14-donec-tellus-purus.html" data-id-product="14" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-7') }}" data-id-product="14" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -1563,11 +1563,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="15"></div>
-                                                                                <a class="product_img_link"	href="home/15-donec-tellus-purus.html" title="Fusce vestibulum" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-8') }}" title="Fusce vestibulum" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus38.jpg')}}" alt="Fusce vestibulum" title="Fusce vestibulum" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="15"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/15-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/15-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-8') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/15-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																																								<span class="new-box">
 																																									<span class="new-label product-label">New</span>
@@ -1579,7 +1579,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/15-donec-tellus-purus.html" title="Fusce vestibulum" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-8') }}" title="Fusce vestibulum" itemprop="url" >
                                                                                         Fusce vestibulum
                                                                                     </a>
                                                                                 </h5>
@@ -1634,7 +1634,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/15-donec-tellus-purus.html" data-id-product="15" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-8') }}" data-id-product="15" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -1668,11 +1668,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="16"></div>
-                                                                                <a class="product_img_link"	href="home/16-donec-tellus-purus.html" title="Donec tellus purus" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-9') }}" title="Donec tellus purus" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus39.jpg')}}" alt="Fusce vestibulum" title="Fusce vestibulum" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="16"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/16-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/16-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-9') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/16-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																																										<span class="new-box">
 																																											<span class="new-label product-label">New</span>
@@ -1684,7 +1684,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/16-donec-tellus-purus.html" title="Donec tellus purus" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-9') }}" title="Donec tellus purus" itemprop="url" >
                                                                                         Donec tellus purus
                                                                                     </a>
                                                                                 </h5>
@@ -1739,7 +1739,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/16-donec-tellus-purus.html" data-id-product="16" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-9') }}" data-id-product="16" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -1767,11 +1767,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="17"></div>
-                                                                                <a class="product_img_link"	href="home/17-donec-tellus-purus.html" title="Ligula ullamcorper" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-10') }}" title="Ligula ullamcorper" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus40.jpg')}}" alt="Donec tellus purus" title="Donec tellus purus" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="17"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/17-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/17-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-10') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/17-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																																												<span class="new-box">
 																																													<span class="new-label product-label">New</span>
@@ -1783,7 +1783,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/17-donec-tellus-purus.html" title="Ligula ullamcorper" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-10') }}" title="Ligula ullamcorper" itemprop="url" >
                                                                                         Ligula ullamcorper
                                                                                     </a>
                                                                                 </h5>
@@ -1838,7 +1838,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/17-donec-tellus-purus.html" data-id-product="17" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-10') }}" data-id-product="17" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -1866,11 +1866,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="18"></div>
-                                                                                <a class="product_img_link"	href="home/18-donec-tellus-purus.html" title="Ligula ullamcorper" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-11') }}" title="Ligula ullamcorper" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus41.jpg')}}" alt="Ligula ullamcorper" title="Ligula ullamcorper" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="18"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/18-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/18-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-11') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/18-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																																														<span class="new-box">
 																																															<span class="new-label product-label">New</span>
@@ -1882,7 +1882,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/18-donec-tellus-purus.html" title="Ligula ullamcorper" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-11') }}" title="Ligula ullamcorper" itemprop="url" >
                                                                                         Ligula ullamcorper
                                                                                     </a>
                                                                                 </h5>
@@ -1937,7 +1937,7 @@
                                                                                     </a>
 
 
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/18-donec-tellus-purus.html" data-id-product="18" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-11') }}" data-id-product="18" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
@@ -1965,11 +1965,11 @@
                                                                         <div class="left-block">
                                                                             <div class="product-image-container image">
                                                                                 <div class="leo-more-info" data-idproduct="19"></div>
-                                                                                <a class="product_img_link"	href="home/19-donec-tellus-purus.html" title="Mattis augue" itemprop="url">
+                                                                                <a class="product_img_link"	href="{{ url('product-12') }}" title="Mattis augue" itemprop="url">
                                                                                     <img class="replace-2x img-responsive" src="{{theme('frontend/img/products/donec-tellus-purus42.jpg')}}" alt="Mattis augue" title="Mattis augue" itemprop="image" />
                                                                                     <span class="product-additional" data-idproduct="19"></span>
                                                                                 </a>
-                                                                                <a class="quick-view btn-outline btn" href="home/19-donec-tellus-purus.html" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/19-donec-tellus-purus.html" title="Quick view" >
+                                                                                <a class="quick-view btn-outline btn" href="{{ url('product-12') }}" rel="http://demo4leotheme.com/prestashop/leo_wine_store/en/champagne/19-donec-tellus-purus.html" title="Quick view" >
                                                                                 </a>
 																																																<span class="new-box">
 																																																	<span class="new-label product-label">New</span>
@@ -1981,7 +1981,7 @@
                                                                         <div class="right-block">
                                                                             <div class="product-meta">
                                                                                 <h5 itemprop="name" class="name">
-                                                                                    <a class="product-name" href="home/19-donec-tellus-purus.html" title="Mattis augue" itemprop="url" >
+                                                                                    <a class="product-name" href="{{ url('product-12') }}" title="Mattis augue" itemprop="url" >
                                                                                         Mattis augue
                                                                                     </a>
                                                                                 </h5>
@@ -2031,7 +2031,7 @@
                                                                                         <i class="fa fa-shopping-cart"></i>
                                                                                         <span>Add to cart</span>
                                                                                     </a>
-                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="home/19-donec-tellus-purus.html" data-id-product="19" title="Add to compare" >
+                                                                                    <a class="compare add_to_compare compare btn btn-default btn-outline-inverse" href="{{ url('product-12') }}" data-id-product="19" title="Add to compare" >
                                                                                         <i class="fa fa-retweet"></i>
                                                                                         <span>Add to compare</span>
                                                                                     </a>
