@@ -24,6 +24,7 @@
 */
 
 var instantSearchQueries = [];
+var blocksearch_type;
 $(document).ready(function()
 {
 	if (typeof instantsearch != 'undefined' && instantsearch)		

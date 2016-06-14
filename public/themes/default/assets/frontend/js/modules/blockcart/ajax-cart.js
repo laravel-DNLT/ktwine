@@ -235,6 +235,8 @@ var ajaxCart = {
 	},
 	// Fix display when using back and previous browsers buttons
 	refresh : function(){
+		var baseUri;
+		var static_token;
 		$.ajax({
 			type: 'POST',
 			headers: { "cache-control": "no-cache" },

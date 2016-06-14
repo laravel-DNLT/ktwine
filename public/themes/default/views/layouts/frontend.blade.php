@@ -47,7 +47,7 @@
     <link rel="stylesheet" href="{{ theme('frontend/css/local/custom.css') }}" type="text/css" media="all" />
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-
+    <link rel="stylesheet" type="text/css" href="{{ theme('frontend/css/product.css') }}"/>
     <!-- CSS -->
     <!-- Script -->
 
